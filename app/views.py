@@ -8,4 +8,4 @@ from django.template import RequestContext
 from datetime import datetime
 
 def s(request):
-    return HttpResponse("hello")
+    return HttpResponse("hello sonal")
